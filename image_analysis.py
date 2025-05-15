@@ -478,7 +478,7 @@ def plot_stacked_id_vs_cycle(dataframes, labels, colors=None, markers=None,
         ax.set_ylabel("")
 
     # Label x-axis on the bottom plot only
-    axes[-1].set_xlabel('condition')
+    axes[-1].set_xlabel('Capacity (mAh/cm²)')
 
     # Shared y-axis label for the entire figure
     fig.text(0.001, 0.5, ylabel, va='center', rotation='vertical', fontsize=24)
