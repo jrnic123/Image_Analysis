@@ -2,8 +2,7 @@
  Code used to carry out image analysis from Nicolas et al. 2025 (in review).
 
 # Abstract
-Characterizing the morphology of lithium (Li) is crucial for developing long-lasting lithium metal batteries. It is well established that more uniform Li deposition correlates with better cell performance. Li morphology is often characterized through qualitative analysis of scanning electron microscopy (SEM) images, however, there are no widely accepted metrics to quantitatively describe deposition uniformity. Here we propose a framework to quantify uniformity through SEM image analysis via the index of dispersion (ID) metric, which is defined and presented here in the context of Li metal batteries. We also explore experimental impacts of sampling protocols on ID measurements. Our results demonstrate that the ID metric is highly sensitive to variations in deposition uniformity, including the coexistence and uniformity of multiple morphologies, uniformity within a single morphology, and particle size distribution uniformity. Furthermore, it is demonstrated that uniformity, as measured by the ID, can be related to the average potential of Li||Li symmetric cells over cycling. Higher capacity cycling leads to more pronounced changes in both ID and average cell potential. Local minima/maxima are found consistently in both ID and average cell potential immediately before cells short-circuit, which we suggest may indicate a collapse of the microstructure prior to failure. We put forward this framework as a more robust approach to quantify Li deposition uniformity, advancing the development of Li metal batteries that are safer and longer lasting.
-
+(To be added upon publication)
 ----------------------------
 
 # Functions
